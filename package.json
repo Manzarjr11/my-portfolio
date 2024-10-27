@@ -33,6 +33,6 @@
     "stylelint-config-tailwindcss": "^0.0.7",
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.8",
-    "gh-pages": "^5.0.0"  // Ensure this line is added
+    "gh-pages": "^5.0.0"
   }
 }
